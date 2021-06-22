@@ -1,0 +1,6 @@
+module Pods_MVVMAlamofireTests {
+  umbrella header "Pods-MVVMAlamofireTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
